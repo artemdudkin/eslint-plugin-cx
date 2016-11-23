@@ -1,4 +1,4 @@
-# cx/classnames
+# eslint-plugin-cx
 
 ESLint rule : all CSS class names (1) should start with prefix__ or (2) should be equal to prefix
 
