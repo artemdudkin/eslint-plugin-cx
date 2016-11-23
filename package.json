@@ -14,6 +14,7 @@
   "dependencies": {},
   "keywords": [
     "eslint",
+    "eslintplugin",
     "react",
     "jsx",
     "css",
