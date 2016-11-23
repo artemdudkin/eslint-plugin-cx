@@ -1,8 +1,8 @@
 # eslint-plugin-cx
 
-ESLint rule : all CSS class names (1) should start with prefix__ or (2) should be equal to prefix
+(React.js) ESLint rule : all css-class-names should starts with jsx-class-name-prefix
 
-Where
+I.e., all CSS class names (1) should start with prefix__ or (2) should be equal to prefix, where
   1. prefix = component name (camelCase, dashed or underscored)
   2. all modules should export component at 'export default' (and its name will be used as prefix)
   3. function components should be named functions
