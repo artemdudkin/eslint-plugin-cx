@@ -24,3 +24,7 @@ Can be one of 'dash', 'underscore' or else ('dash' is default).
 * dash -> for MyClass prefix will be my-class
 * underscore -> for MyClass prefix will be my_class
 * else -> for MyClass prefix will be MyClass (no change)
+
+## License
+
+MIT
